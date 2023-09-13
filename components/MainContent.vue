@@ -38,6 +38,9 @@
             </div>
         </div>
     </div>
+    <div class="flex justify-center mb-2 items-center">
+        <button disabled class="px-5 py-2 text-xl font-bold bg-gray-500 rounded-md">Submit</button>
+    </div>
 </template>
 
 <script>
