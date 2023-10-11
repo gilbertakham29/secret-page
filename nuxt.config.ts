@@ -7,9 +7,12 @@ export default defineNuxtConfig({
 app:{
   head:{
     script:[
-      "https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"
+     {
+      src:"https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"
+     }
     ]
   }
   }
 }
 )
+
